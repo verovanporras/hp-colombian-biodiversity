@@ -32,6 +32,7 @@ El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible 
 - [Explora el Manual Darwin Core de iOBIS](https://obis.org/manual/).
 - [Conoce los elementos del Darwin Core (a través de la Wiki de Gcube)](https://gcube.wiki.gcube-system.org/gcube/Darwin_Core_Terms).
 - [Conoce los diferentes perfiles Darwin Core](https://sites.google.com/humboldt.org.co/wikisib/publicar/est%C3%A1ndares/darwin-core?authuser=0).
+
 ## Plinian Core
 El estándar **Plinian Core** (PliC) es un estándar para compartir información principalmente a nivel de especie. Fue concebido como una forma de publicar información sobre especies y hacerla interoperable. Por “información de especies” nos referimos a todo tipo de propiedades y rasgos relacionados con los taxones (de cualquier rango), incluidas descripciones, nomenclatura, estado de conservación, manejo, historia natural, etc. Por lo tanto, el alcance de Plinian Core va más allá de las descripciones taxonómicas. Todas las fichas de especies compartidas a través del SiB Colombia se publican utilizando este estándar.
 
